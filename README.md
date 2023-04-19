@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Service Architecture**
 
-- 👨‍💻 All of my projects are available at [https://jafcnepa.github.io/porta/](https://jafcnepa.github.io/porta/)
+- 👨‍💻 All of my projects are available at [https://jafcn09.github.io/blog/](https://jafcn09.github.io/blog/)
 
 - 📝 I regularly write articles on [coderesolutions.com](coderesolutions.com)
 
