@@ -26,9 +26,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/jafcn09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="jafcn09" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/jafetcanepa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jafetcanepa/" height="30" width="40" /></a>
 <a href="https://fb.com/jhafet canepa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jhafet canepa" height="30" width="40" /></a>
 <a href="https://instagram.com/devepcam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devepcam" height="30" width="40" /></a>
-<a href="http://wa.me/+51992290742" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/WhatsApp.svg" alt="celular" height="30" width="40" /></a>
+<a href="/https://jafcnepa.github.io/porta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://jafcnepa.github.io/porta/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
