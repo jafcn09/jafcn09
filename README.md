@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://jafcn09.github.io/blog/](https://jafcn09.github.io/blog/)
 
-- 📝 I regularly write articles on [coderesolution.pe](coderesolution.pe)
+- 📝 I regularly write articles on [https://coderesolution.pe](https://coderesolution.pe)
 
 - 💬 Ask me about **about java, javascript, .net, relational and non-relational databases, deployments and security**
 
