@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jhafet Canepa</h1>
+<h1 align="center">Hi 👋, I'm Jhafet Cánepa</h1>
 <h3 align="center">A passionate software developer from Peru</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jafcn09&label=Profile%20views&color=0e75b6&style=flat" alt="jafcn09" /> </p>
@@ -17,7 +17,7 @@
 
 - 📝 I regularly write articles on [https://coderesolution.pe](https://coderesolution.pe)
 
-- 💬 Ask me about **about java, javascript, .net, relational and non-relational databases, deployments and security**
+- 💬 Ask me about **about typescript, javascript, golang, dart, java, relational and non-relational databases, deployments and security**
 
 - 📫 How to reach me **jafetcanepa@outlook.es**
 
