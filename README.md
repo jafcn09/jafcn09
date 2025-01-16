@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jafcn09" alt="jafcn09" /></a> </p>
 
-- 🔭 I’m currently working on [Developer Full Stack](http://www.munitumbes.gob.pe/muni20232026/)
+- 🔭 I’m currently working on [Developer Full Stack](https://unmsm.edu.pe/)
 
 - 🌱 I’m currently learning **Data Science**
 
-- 👯 I’m looking to collaborate on [Data Science](https://www.google.com/)
+- 👯 I’m looking to collaborate on [Data Science]
 
 - 🤝 I’m looking for help with **Service Architecture**
 
