@@ -3,12 +3,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
     Hi, I'm Jhafet Cánepa
   </h1>
-  <h3>Full Stack Developer | Software Architect</h3>
-</div>
-
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Hi+%F0%9F%91%8B+I'm+Jhafet+C%C3%A1nepa;Full+Stack+Developer+%7C+Software+Architect" alt="Typing SVG" />
+  <h3>🚀 Full Stack Developer | Software Architect</h3>
 </div>
 
 <div align="center">
@@ -121,6 +116,89 @@
   <img src="https://img.shields.io/badge/Asana-273347?style=for-the-badge&logo=asana&logoColor=white" alt="Asana" />
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
 </p>
+
+</div>
+
+## 💻 Specialized Architectures
+
+<div align="center">
+
+### 🦀 Rust - High Performance Systems
+<table>
+  <tr>
+    <td align="center"><b>🚀 Frameworks</b></td>
+    <td align="center"><b>⚡ Async Runtime</b></td>
+    <td align="center"><b>🔧 Patterns</b></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/Actix_Web-000000?style=flat-square&logo=rust&logoColor=white" alt="Actix" /><br/>
+      <img src="https://img.shields.io/badge/Rocket-D33847?style=flat-square&logo=rust&logoColor=white" alt="Rocket" /><br/>
+      <img src="https://img.shields.io/badge/Warp-4285F4?style=flat-square&logo=rust&logoColor=white" alt="Warp" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Tokio-FF6B6B?style=flat-square&logo=rust&logoColor=white" alt="Tokio" /><br/>
+      <img src="https://img.shields.io/badge/async_std-00ADD8?style=flat-square&logo=rust&logoColor=white" alt="async-std" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Zero_Copy-E10098?style=flat-square&logo=rust&logoColor=white" alt="Zero Copy" /><br/>
+      <img src="https://img.shields.io/badge/RAII-6B46C1?style=flat-square&logo=rust&logoColor=white" alt="RAII" /><br/>
+      <img src="https://img.shields.io/badge/Actor_Model-FF6F00?style=flat-square&logo=rust&logoColor=white" alt="Actor Model" />
+    </td>
+  </tr>
+</table>
+
+### 🐈 NestJS - Enterprise Architecture
+<table>
+  <tr>
+    <td align="center"><b>📊 Patterns</b></td>
+    <td align="center"><b>🔌 Integration</b></td>
+    <td align="center"><b>📦 Modules</b></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/CQRS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="CQRS" /><br/>
+      <img src="https://img.shields.io/badge/Event_Sourcing-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="Event Sourcing" /><br/>
+      <img src="https://img.shields.io/badge/DDD-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="DDD" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL" /><br/>
+      <img src="https://img.shields.io/badge/gRPC-00ADD8?style=flat-square&logo=grpc&logoColor=white" alt="gRPC" /><br/>
+      <img src="https://img.shields.io/badge/WebSockets-FF6B6B?style=flat-square&logo=socket.io&logoColor=white" alt="WebSockets" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Microservices-4285F4?style=flat-square&logo=nestjs&logoColor=white" alt="Microservices" /><br/>
+      <img src="https://img.shields.io/badge/Event_Bus-6B46C1?style=flat-square&logo=apache-kafka&logoColor=white" alt="Event Bus" /><br/>
+      <img src="https://img.shields.io/badge/Auth_Module-FF6F00?style=flat-square&logo=auth0&logoColor=white" alt="Auth" />
+    </td>
+  </tr>
+</table>
+
+### 🐹 Golang - Cloud Native Development
+<table>
+  <tr>
+    <td align="center"><b>🌐 Frameworks</b></td>
+    <td align="center"><b>🏗️ Architecture</b></td>
+    <td align="center"><b>⚙️ Tools</b></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/Gin-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Gin" /><br/>
+      <img src="https://img.shields.io/badge/Fiber-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Fiber" /><br/>
+      <img src="https://img.shields.io/badge/Echo-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Echo" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Hexagonal-4285F4?style=flat-square&logo=go&logoColor=white" alt="Hexagonal" /><br/>
+      <img src="https://img.shields.io/badge/Clean_Arch-E10098?style=flat-square&logo=go&logoColor=white" alt="Clean" /><br/>
+      <img src="https://img.shields.io/badge/DDD-6B46C1?style=flat-square&logo=go&logoColor=white" alt="DDD" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/gRPC-FF6B6B?style=flat-square&logo=grpc&logoColor=white" alt="gRPC" /><br/>
+      <img src="https://img.shields.io/badge/Cobra_CLI-FF6F00?style=flat-square&logo=go&logoColor=white" alt="Cobra" /><br/>
+      <img src="https://img.shields.io/badge/Wire_DI-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Wire" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
