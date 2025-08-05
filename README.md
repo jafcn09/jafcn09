@@ -243,8 +243,10 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jafcn09&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
 
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jafcn09&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jafcn09&theme=tokyonight" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jafcn09&theme=tokyonight" alt="Productive Time" />
 </div>
 
 ## 📈 Contribution Graph
