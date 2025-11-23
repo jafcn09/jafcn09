@@ -267,12 +267,7 @@
   <a href="https://codepen.io/jafcn09" target="_blank">
     <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" />
   </a>
-  <a href="https://instagram.com/devepcam" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="mailto:jafetcanepa@outlook.es">
-    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" />
-  </a>
+
 </div>
 
 <br/>
