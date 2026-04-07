@@ -69,7 +69,7 @@
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
     <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Golang" />
- <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="SpringBoot" />
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="SpringBoot" />
 </p>
 
 ### AI & Machine Learning
@@ -114,6 +114,33 @@
 ## 💻 Specialized Architectures
 
 <div align="center">
+
+### ☕ Spring Boot - Enterprise Java Architecture
+<table>
+  <tr>
+    <td align="center"><b>🏗️ Patterns</b></td>
+    <td align="center"><b>🔌 Integration</b></td>
+    <td align="center"><b>⚙️ Tools</b></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/Clean_Architecture-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Clean Architecture" /><br/>
+      <img src="https://img.shields.io/badge/Hexagonal-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Hexagonal" /><br/>
+      <img src="https://img.shields.io/badge/DDD-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="DDD" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/REST_API-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="REST API" /><br/>
+      <img src="https://img.shields.io/badge/GraphQL-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="GraphQL" /><br/>
+      <img src="https://img.shields.io/badge/gRPC-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="gRPC" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" alt="Spring Security" /><br/>
+      <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Data JPA" /><br/>
+      <img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Cloud" />
+    </td>
+  </tr>
+</table>
+
 
 ### 🦀 Rust - High Performance Systems
 <table>
