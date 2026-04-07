@@ -36,7 +36,7 @@
 - 🤖 Exploring **AI/ML** integration in production systems
 - 🏗️ Expert in **Microservices**, **Clean** & **Modular Architecture**
 - 👯 Looking to collaborate on **AI-powered Open Source Projects**
-- 📝 Technical writer at [coderesolution.pe](https://coderesolution.pe)
+- 📝 Technical writer at [coderesolution.com](https://coderesolution.com)
 - 💬 Ask me about **Backend, AI/ML, Cloud, and System Design**
 - 📫 Reach me at **jafetcanepa@outlook.es**
 
@@ -69,6 +69,7 @@
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
     <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Golang" />
+ <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="SpringBoot" />
 </p>
 
 ### AI & Machine Learning
