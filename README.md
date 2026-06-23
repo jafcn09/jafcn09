@@ -1,45 +1,81 @@
 # Jhafet Cánepa
 
-## Software Architect | Full Stack Developer | AI & Geospatial Systems Engineer
+## Software Architect | Geospatial Intelligence Engineer | Full Stack Developer | Open Source Maintainer
 
-Software engineer focused on scalable systems, distributed architectures, AI integration, and high-performance geospatial platforms.
+Software engineer specialized in software architecture, distributed systems, geospatial intelligence, and AI-driven applications.
 
-Experienced in enterprise software development with expertise in backend systems, cloud-native applications, event-driven architectures, GIS platforms, and machine learning integration.
+Experienced in designing and building scalable platforms, cloud-native systems, high-performance backend architectures, GIS applications, and open-source developer tooling. Passionate about creating technology that combines artificial intelligence, spatial computing, and civic innovation.
 
 ---
 
 ## Professional Focus
 
-* Distributed Systems
 * Software Architecture
+* Geospatial Intelligence (GIS)
+* Distributed Systems
 * AI/ML Integration
-* Geospatial Platforms
 * High-Performance Backend Systems
 * Cloud-Native Applications
 * Event-Driven Architectures
 * Open Source Development
+* Spatial Computing
+* Civic Technology
 
 ---
 
 ## Featured Projects
 
+### Peru Spatial Utils
+
+Cross-platform geospatial library for Peru designed to provide spatial intelligence capabilities across multiple programming languages.
+
+#### Features
+
+* INEI Ubigeo processing
+* UTM/WGS84 conversions
+* Distance and area calculations
+* Bounding box operations
+* Territorial analysis utilities
+* Offline-first architecture
+* Zero external dependencies
+* Multi-language support
+
+#### Available On
+
+* npm
+* Maven Central
+* pub.dev
+
+#### Core Technologies
+
+* TypeScript
+* Java
+* Dart
+* Python
+* GIS
+* Spatial Algorithms
+* Open Source Tooling
+
+---
+
 ### GeoDataLoader
 
-High-performance geospatial rendering library designed for large-scale datasets.
+High-performance geospatial rendering library designed for large-scale spatial datasets and GIS visualization pipelines.
 
-Key Results:
+#### Key Results
 
-* Reduced loading times from 120s to 5s
-* Optimized memory consumption by approximately 90%
+* Reduced loading times from 120 seconds to 5 seconds
+* Reduced memory consumption by approximately 90%
 * Maintained smooth rendering performance for large vector datasets
-* Designed for scalable GIS visualization pipelines
+* Designed for scalable geospatial visualization systems
 
-Core Technologies:
+#### Core Technologies
 
 * TypeScript
 * WebGL
 * Spatial Processing
 * Performance Optimization
+* GIS Rendering
 
 ---
 
@@ -47,15 +83,16 @@ Core Technologies:
 
 AI-powered transcription platform capable of processing audio and video content with multilingual support.
 
-Features:
+#### Features
 
 * English and Spanish transcription
 * Local-first architecture
 * PDF export support
 * AI-assisted processing pipeline
 * Scalable backend architecture
+* Timestamp segmentation
 
-Core Technologies:
+#### Core Technologies
 
 * Angular
 * Python
@@ -69,7 +106,7 @@ Core Technologies:
 
 GitHub application designed to automate pull request analysis and engineering quality validation.
 
-Capabilities:
+#### Capabilities
 
 * Pull request inspection
 * Engineering policy validation
@@ -77,7 +114,7 @@ Capabilities:
 * Risk analysis workflows
 * Development workflow automation
 
-Core Technologies:
+#### Core Technologies
 
 * TypeScript
 * GitHub Apps
@@ -88,22 +125,24 @@ Core Technologies:
 
 ### Serious Game for ASD Emotion Recognition
 
-Research-oriented platform focused on emotion recognition and therapeutic interaction support for children with ASD.
+Research-oriented platform focused on emotion recognition and therapeutic interaction support for children with Autism Spectrum Disorder (ASD).
 
-Research Areas:
+#### Research Areas
 
 * Facial emotion recognition
 * AI-assisted analysis
 * Gamified therapeutic interaction
 * Quantitative emotional metrics
 * Human-computer interaction
+* Educational technologies
 
-Core Technologies:
+#### Core Technologies
 
 * Flutter
 * Machine Learning
 * Computer Vision
-* AI Pipelines
+* Artificial Intelligence
+* Data Analytics
 
 ---
 
@@ -133,8 +172,20 @@ Core Technologies:
 * LLM Integration
 * TensorFlow
 * PyTorch
-* Vector Databases
 * LangChain
+* Vector Databases
+* AI Pipelines
+
+### Geospatial Engineering
+
+* GIS Systems
+* Spatial Computing
+* Geospatial Intelligence
+* PostGIS
+* Spatial Analysis
+* Geospatial Visualization
+* UTM/WGS84 Systems
+* Territorial Analysis
 
 ### Cloud & Infrastructure
 
@@ -143,10 +194,13 @@ Core Technologies:
 * Google Cloud
 * Distributed Systems
 * CI/CD Pipelines
+* Cloud-Native Systems
+* Containerized Applications
 
 ### Databases
 
 * PostgreSQL
+* PostGIS
 * MySQL
 * MongoDB
 * Redis
@@ -163,20 +217,45 @@ Core Technologies:
 * Event-Driven Systems
 * Cloud-Native Systems
 * Scalable Backend Design
+* Distributed Systems Architecture
+* Microservices Architecture
 
 ---
 
 ## Open Source
 
-Published libraries and tools focused on performance, mobile development, backend engineering, and developer tooling.
+Published libraries and tools focused on geospatial intelligence, developer tooling, performance engineering, and AI integration.
 
-Selected Areas:
+### Selected Areas
 
-* Flutter packages
-* Kotlin libraries
-* Geospatial tooling
-* Developer security tooling
-* AI integration utilities
+* Peru Spatial Utils
+* Flutter Packages
+* Geospatial Tooling
+* Developer Security Tooling
+* AI Utilities
+* Distributed Systems Libraries
+* GIS Components
+* Performance Optimization Libraries
+
+---
+
+## Intellectual Property
+
+### Registered Software Author
+
+**Serious Game for Developing Visual Emotion Recognition in Children with Autism Spectrum Disorder**
+
+Issued by:
+
+**National Institute for the Defense of Competition and Protection of Intellectual Property (INDECOPI), Peru**
+
+Registry Number:
+
+**01495-2026**
+
+Type:
+
+**Software Copyright Registration**
 
 ---
 
@@ -184,23 +263,36 @@ Selected Areas:
 
 ### Universidad Nacional Mayor de San Marcos (UNMSM)
 
-Full Stack Developer
+**Full Stack Developer**
 
 Enterprise software development focused on scalable institutional systems, analytics, and architecture modernization.
 
+#### Contributions
+
+* Institutional platforms
+* Analytics systems
+* Backend modernization
+* Distributed applications
+* Cloud-native integrations
+
+---
+
 ### Universidad Nacional de Tumbes (UNT)
 
-Software Developer
+**Software Developer**
 
-Designed and developed institutional platforms focused on performance optimization, real-time workflows, and scalable backend systems.
+Designed and developed institutional platforms focused on performance optimization, real-time workflows, GIS integration, and scalable backend systems.
 
-Key Contributions:
+#### Key Contributions
 
 * Document management systems
 * Ticketing platforms
+* Notification systems
 * Real-time analytics
 * Event-driven systems
-* GIS-oriented integrations
+* Geospatial integrations
+* Territorial analysis platforms
+* Multiplatform GIS applications
 
 ---
 
@@ -208,11 +300,13 @@ Key Contributions:
 
 * Artificial Intelligence
 * Geospatial Intelligence
+* Spatial Computing
 * Distributed Systems
 * Human-Computer Interaction
 * Machine Learning Applications
-* Software Architecture
 * Civic Technology
+* Software Architecture
+* Geospatial Analytics
 
 ---
 
@@ -221,24 +315,29 @@ Key Contributions:
 Research activities focused on:
 
 * Emotion recognition systems
-* Machine learning applications
 * Serious games
+* Machine learning applications
 * AI-assisted healthcare technologies
 * Geospatial analysis systems
+* Spatial intelligence platforms
+* Human-centered computing
+* Applied artificial intelligence
 
 ---
 
 ## Contact
 
-* Portfolio: [https://jafcn09.github.io/blog/](https://jafcn09.github.io/blog/)
-* GitHub: [https://github.com/jafcn09](https://github.com/jafcn09)
-* LinkedIn: [https://linkedin.com/in/jafetcanepa](https://linkedin.com/in/jafetcanepa)
-* Medium: [https://medium.com/@devepcam](https://medium.com/@devepcam)
-* Website: [https://coderesolutions.com](https://coderesolutions.com)
+* Portfolio: https://jafcn09.github.io/blog/
+* Peru Spatial Utils: https://jafcn09.github.io/peru-spatial-utils/
+* GitHub: https://github.com/jafcn09
+* LinkedIn: https://linkedin.com/in/jafetcanepa
+* Medium: https://medium.com/@devepcam
+* Website: https://coderesolutions.com
 
 ---
 
 ## Selected Technologies
 
-TypeScript • Golang • Java • Kotlin • Angular • React • Flutter • Spring Boot • NestJS • PostgreSQL • Docker • AWS • Machine Learning • GIS • Distributed Systems
+TypeScript • Golang • Java • Python • Dart • Angular • React • Flutter • Spring Boot • NestJS • PostgreSQL • PostGIS • Docker • AWS • Machine Learning • GIS • Spatial Computing • Distributed Systems • Software Architecture • Artificial Intelligence
+
 
