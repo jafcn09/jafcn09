@@ -328,7 +328,6 @@ Research activities focused on:
 ## Contact
 
 * Portfolio: https://jafcn09.github.io/blog/
-* Peru Spatial Utils: https://jafcn09.github.io/peru-spatial-utils/
 * GitHub: https://github.com/jafcn09
 * LinkedIn: https://linkedin.com/in/jafetcanepa
 * Medium: https://medium.com/@devepcam
