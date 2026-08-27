@@ -170,7 +170,7 @@ Architecting cross-platform institutional geoportal with Angular, Spring Boot, P
 Institutional platform redesign (+80% performance). Ticket management (–40% resolution time). Document tracking with Java 17 and QR validation. Mobile app for students and faculty. Audio/video transcription pipeline.
 
 ### Universidad Nacional Mayor de San Marcos
-**Software Developer, Backend Coordinator** · September 2023 – October 2024
+**Software Developer, Backend Coordinator** · enero 2023 – enero 2025
 
 Scalable microservices with Docker, Golang, NestJS, and Spring Boot (99.9% uptime). Thesis management system. ETL automation for graduate platform.
 
